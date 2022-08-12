@@ -1,7 +1,7 @@
 <div align="center"><h1>Hello, I am Taranjeet 👋</h1></div>
 
 - I am an engineer who knows product and growth.
-- I am working as a Senior Product Manager at Khatabook (YC & Sequoia backed, valued at $600Mn).
+- I am working as a Senior Product Manager at [Khatabook](https://techcrunch.com/2021/08/23/indias-khatabook-raises-100-million-for-its-bookkeeping-platform-for-merchants/) (YC & Sequoia backed, valued at $600Mn).
 - I worked as an engineer at Gradeup (acquired by Byjus, valued at ~23Bn) and Paytm (listed on Indian Stock Exchange, ~$6Bn market cap).
 
 ## Professional Contributions
