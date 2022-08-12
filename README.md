@@ -3,13 +3,12 @@
 - I am an engineer who knows product and growth.
 - I am working as a Senior Product Manager at Khatabook (YC & Sequoia backed, valued at $600Mn).
 - I worked as an engineer at Gradeup (acquired by Byjus, valued at ~23Bn) and Paytm (listed on Indian Stock Exchange, ~$6Bn market cap).
-- I was working remotely (2018-2019) when remote working was not the norm.
 
 ## Professional Contributions
 
 - I built and scaled a [search engine](https://www.facebook.com/watch/?v=883796972040441) for K12 students, featured at [Google IO 2019](https://www.asianage.com/technology/in-other-news/090519/google-io-2019-featured-two-indian-companies-for-excellent-use-of-machine-learning.html).
-- I helped develop an [educational product](https://www.talkwithmeapp.com/) for people with Autism, being backed by the New Zealand Government Crown Entity.
-- I co-authored a chapter on *Industrial Applications of NLP in Search* for [Practical Natural Language Processing](https://www.amazon.in/Practical-Natural-Language-Processing-Comprehensive/dp/9385889184/). The authors hail from Google AI, Carnegie Mellon, MIT Media Lab and Microsoft Research.
+- I helped develop an [educational product](https://www.talkwithmeapp.com/) for people with Autism. New Zealand Government Crown Entity backs this project.
+- I co-authored a chapter on for [Practical Natural Language Processing](https://www.amazon.in/Practical-Natural-Language-Processing-Comprehensive/dp/9385889184/). The authors hail from Google AI, Carnegie Mellon, MIT Media Lab and Microsoft Research.
 
 ## Open source contributions
 
@@ -19,9 +18,9 @@
 
 ### EvalAI
 
-- I helped develop [Evalai](https://eval.ai/) from scratch. Evalai is an open source platform for evaluating and comparing machine learning algorithms at scale.
+- I helped develop [Evalai](https://eval.ai/) from scratch. Evalai is an open source platform for hosting machine learning competitions at scale.
 - It gets ~42K monthly visits from ML and AI researchers and practitioners around the world. It has 1400 stars & 600+ forks on [Github](https://github.com/Cloud-CV/EvalAI).
-- I implemented parallelised backend which reduced the submission evaluation time by 80% in comparison to [Microsoft Codalab](https://www.microsoft.com/en-us/research/project/codalab/). This made the project popular and useful for students at CMU, Stanford and organisations like Facebook AI Research, Google AI Research.
+- I implemented parallelised backend. It reduced the submission evaluation time by 80% in comparison to [Microsoft Codalab](https://www.microsoft.com/en-us/research/project/codalab/). This made the project popular among CMU, Stanford students. Organisations like Facebook AI Research, Google AI Research also uses it.
 - Evalai is a participant project under Google Summer of Code(GSOC). I was GSOC mentor for EvalAI in 2017. I was invited to GSOC mentor summit held in Google Mountain View office.
 
 ### Notable Contributions
