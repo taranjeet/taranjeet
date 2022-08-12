@@ -18,10 +18,10 @@
 
 ### EvalAI
 
-- I helped develop [Evalai](https://eval.ai/) from scratch. Evalai is an open source platform for hosting machine learning competitions at scale.
+- I helped develop [EvalAI](https://eval.ai/) from scratch. EvalAI is an open source platform for hosting machine learning competitions at scale.
 - It gets ~42K monthly visits from ML and AI researchers and practitioners around the world. It has 1400 stars & 600+ forks on [Github](https://github.com/Cloud-CV/EvalAI).
 - I implemented parallelised backend. It reduced the submission evaluation time by 80% in comparison to [Microsoft Codalab](https://www.microsoft.com/en-us/research/project/codalab/). This made the project popular among CMU, Stanford students. Organisations like Facebook AI Research, Google AI Research also uses it.
-- Evalai is a participant project under Google Summer of Code(GSOC). I was GSOC mentor for EvalAI in 2017. I was invited to GSOC mentor summit held in Google Mountain View office.
+- EvalAI is a participant project under Google Summer of Code(GSOC). I was GSOC mentor for EvalAI in 2017. I was invited to GSOC mentor summit held in Google Mountain View office.
 
 ### Notable Contributions
 
