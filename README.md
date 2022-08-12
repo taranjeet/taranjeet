@@ -1,4 +1,4 @@
-## Hello, I am Taranjeet 👋
+<div align="center"><h1>Hello, I am Taranjeet 👋</h1></div>
 
 - I am an engineer who knows product and growth.
 - I am working as a Senior Product Manager at Khatabook (YC & Sequoia backed, valued at $600Mn).
@@ -35,8 +35,13 @@
 
 ## Connect with me
 
+I love helping people. I am always open to interesting collaborations. Find me via [email](mailto:taranjeet7114@gmail.com).
+
 <a href="https://github.com/taranjeet" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/taranjeet7114" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/2534102/taranjeet" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
@@ -47,18 +52,3 @@
 <a href="https://medium.com/@taranjeet" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
-
-<!--
-**taranjeet/taranjeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
