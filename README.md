@@ -31,6 +31,23 @@
 - [Improved test cases](https://github.com/mozilla/fjord/commits?author=taranjeet) for Mozilla's Fjord.
 - Open sourced [several](https://github.com/paytm/django-supermigrate/commits?author=taranjeet) [packages](https://github.com/paytm/django-paytm-oauth/commits?author=taranjeet) at [Paytm](https://github.com/paytm/dj-j-ka-bachcha-field/commits?author=taranjeet) and [Gradeup](https://github.com/gradeup/youknowwho-gui/commits?author=taranjeet).
 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=taranjeet&show_icons=true" alt="taranjeet" /></div>
+
+## Connect with me
+
+<a href="https://github.com/taranjeet" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/2534102/taranjeet" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/taranjeet7114" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/@taranjeet" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>
+
 <!--
 **taranjeet/taranjeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
