@@ -15,7 +15,7 @@
 
 ### NLP
 
-- I have created a tokenisation module for Hindi language. It is useful in Natural Language Processing (NLP) tasks. It has 75+ stars and 70+ forks. It gets ~400 monthly user visits.
+- I have created a [tokenisation module](https://github.com/taranjeet/hindi-tokenizer) for Hindi language. It is useful in Natural Language Processing (NLP) tasks. It has 75+ stars and 70+ forks. It gets ~400 monthly user visits.
 
 ### EvalAI
 
