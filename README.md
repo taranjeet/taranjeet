@@ -34,7 +34,7 @@
 
 ## Connect with me
 
-I love helping people. I am always open to interesting collaborations. Find me via [email](mailto:taranjeet7114@gmail.com).
+I love helping people. I am always open to collaborations. Find me via [email](mailto:taranjeet7114@gmail.com).
 
 <a href="https://github.com/taranjeet" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
