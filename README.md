@@ -7,23 +7,23 @@ _Experienced professional adroit in Product Management, Product Growth and Softw
 
 ## Professional Experience
 
-* Built and scaled a [doubt resolution app](https://www.facebook.com/watch/?v=883796972040441) for K-12 students while working at Gradeup. The app lets students point their phone's camera at a problem and get an instant answer. It was featured at [Google I/O 2019](https://www.asianage.com/technology/in-other-news/090519/google-io-2019-featured-two-indian-companies-for-excellent-use-of-machine-learning.html). The app has over 1M+ installs
+* Built and scaled a [doubt resolution app](https://www.facebook.com/watch/?v=883796972040441) for K-12 students while working at Gradeup. The app lets students point their phone's camera at a problem and get an instant answer. It was featured at [Google I/O 2019](https://www.asianage.com/technology/in-other-news/090519/google-io-2019-featured-two-indian-companies-for-excellent-use-of-machine-learning.html). The app has 1M+ installs
 * Helped develop an [educational product](https://www.talkwithmeapp.com/) for people with autism while working at Inclusys. Callaghan Innovation (a crown entity of New Zealand) backed it. It has ~3K users worldwide
-* Developed frontend components for [LabXchange](https://www.labxchange.org/) (Harvard's science classroom) while working at OpenCraft. LabXchange gets ~125K monthly user visits worldwide
+* Developed frontend components for [LabXchange](https://www.labxchange.org/) (Harvard's science classroom) while working at OpenCraft. LabXchange gets ~125K monthly users worldwide
 
 ## Open Source Contributions
 
 ### EvalAI
 
 * Co-developed [EvalAI](https://eval.ai/) from scratch
-* Implemented parallelised backend which reduced the submission evaluation time by 80% compared to [Microsoft Codalab](https://www.microsoft.com/en-us/research/project/codalab/) (popular amongst CMU, Stanford, Facebook, Google)
+* Implemented parallelised backend which reduced the submission evaluation time by 80% compared to [Microsoft Codalab](https://www.microsoft.com/en-us/research/project/codalab/)
 * [Mentored](https://summerofcode.withgoogle.com/archive/2017/projects/4507838760091648) students during <strong>Google Summer of Code 2017</strong>, attended GSOC Mentor Summit 2017 held at Google US office (by invitation)
-* __\~42K__ monthly visits worldwide; __1.4K__ stars and 600+ forks on [GitHub](https://github.com/Cloud-CV/EvalAI)
+* __\~42K__ monthly users worldwide; __1.4K__ stars and 600+ forks on [GitHub](https://github.com/Cloud-CV/EvalAI); popular amongst CMU, Stanford, Facebook, Google
 
 ### Hindi Tokenizer (NLP)
 
 * Created a [tokenisation module](https://github.com/taranjeet/hindi-tokenizer) for the Hindi language; used for NLP tasks
-* __75+__ stars and 70+ forks on GitHub; __\~400__ monthly user visits
+* __75+__ stars and 70+ forks on GitHub; __\~400__ monthly users
 
 ### Notable Contributions
 
@@ -36,7 +36,7 @@ _Experienced professional adroit in Product Management, Product Growth and Softw
 
 ## Entrepreneurial Attempt
 
-* ___[2020 - 2021]___ Developed an android app marketplace which provides developers with an alternate distribution platform. So far, the marketplace has got <strong>3 million</strong> organic visitors and <strong>1.9 million</strong> app downloads
+* ___[2020 - 2021]___ Developed an android app marketplace which provides developers with an alternate distribution platform. So far, the marketplace has got <strong>3 million</strong> organic users and <strong>1.9 million</strong> app downloads
 
 ## Other Contributions
 
