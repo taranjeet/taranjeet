@@ -2,7 +2,7 @@
 
 _Experienced professional adroit in Product Management, Product Growth and Software Engineering_
 
-* Working as a Senior Product Manager at [Khatabook](https://techcrunch.com/2021/08/23/indias-khatabook-raises-100-million-for-its-bookkeeping-platform-for-merchants/) (YC & Sequoia backed, valued at $600M)
+* Worked as a Senior Product Manager at [Khatabook](https://techcrunch.com/2021/08/23/indias-khatabook-raises-100-million-for-its-bookkeeping-platform-for-merchants/) (YC & Sequoia backed, valued at $600M)
 * Worked as a software engineer at [Gradeup](https://inc42.com/buzz/byjus-acquires-online-preparation-platform-gradeup-rebrands-it-as-byjus-exam-prep/) (acquired by Byju's, valued at ~$23B) and [Paytm](https://en.wikipedia.org/wiki/Paytm) (Indian Stock Exchange listed, ~$6B market cap)
 
 ## Professional Experience
