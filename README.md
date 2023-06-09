@@ -1,12 +1,14 @@
 <div align="center"><h1>Hello, I am Taranjeet 👋</h1></div>
 
-* Currently building [cookup.ai](https://cookup.ai) - an AI app platform where anyone can create, distribute and monetize AI app.
+* Currently building [embedstore.ai](https://embedstore.ai) - Developer tools to add OpenAI intelligence on constantly updating datasets
+* Writing [keepingupwith.ai](https://keepingupwith.ai) - AI newsletter which covers coding & growth related insights from popular AI projects. 1000+ subscribers across Substack, LinkedIn, WhatsApp.
+* Built [cookup.ai](https://cookup.ai) - AI App Store; 400K+ users monthly with zero marketing spend (via SEO)
 * Worked as a Senior Product Manager at [Khatabook](https://techcrunch.com/2021/08/23/indias-khatabook-raises-100-million-for-its-bookkeeping-platform-for-merchants/) (YC & Sequoia backed, valued at $600M)
 * Worked as a software engineer at [Gradeup](https://inc42.com/buzz/byjus-acquires-online-preparation-platform-gradeup-rebrands-it-as-byjus-exam-prep/) (acquired by Byju's, valued at ~$23B) and [Paytm](https://en.wikipedia.org/wiki/Paytm) (Indian Stock Exchange listed, ~$6B market cap)
 
 ## Professional Experience
 
-* Built and scaled a [doubt resolution app](https://www.facebook.com/watch/?v=883796972040441) for K-12 students while working at Gradeup. The app lets students point their phone's camera at a problem and get an instant answer. It was featured at [Google I/O 2019](https://www.asianage.com/technology/in-other-news/090519/google-io-2019-featured-two-indian-companies-for-excellent-use-of-machine-learning.html). The app has 1M+ installs
+* Built and scaled a [ML based doubt resolution app](https://www.facebook.com/watch/?v=883796972040441) for K-12 students while working at Gradeup. The app lets students point their phone's camera at a problem and get an instant answer. It was featured at [Google I/O 2019](https://www.asianage.com/technology/in-other-news/090519/google-io-2019-featured-two-indian-companies-for-excellent-use-of-machine-learning.html). The app has 1M+ installs
 * Helped develop an [educational product](https://www.talkwithmeapp.com/) for people with autism while working at Inclusys. Callaghan Innovation (a crown entity of New Zealand) backed it. It has ~3K users worldwide
 * Developed frontend components for [LabXchange](https://www.labxchange.org/) (Harvard's science classroom) while working at OpenCraft. LabXchange gets ~125K monthly users worldwide
 
