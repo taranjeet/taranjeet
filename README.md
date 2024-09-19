@@ -2,7 +2,7 @@
 
 * Currently building [mem0.ai](https://mem0.ai)
 * Writing [keepingupwith.ai](https://keepingupwith.ai) - AI newsletter which covers coding & growth related insights from popular AI projects. 1000+ subscribers across Substack, LinkedIn, WhatsApp.
-* Built [cookup.ai](https://cookup.ai) - AI App Store; 400K+ users monthly with zero marketing spend (via SEO)
+* Built [cookup.ai](https://cookup.ai) - GPT App Store; 1M+ users with zero marketing spend (via SEO)
 * Worked as a Senior Product Manager at [Khatabook](https://techcrunch.com/2021/08/23/indias-khatabook-raises-100-million-for-its-bookkeeping-platform-for-merchants/) (YC & Sequoia backed, valued at $600M)
 * Worked as a software engineer at [Gradeup](https://inc42.com/buzz/byjus-acquires-online-preparation-platform-gradeup-rebrands-it-as-byjus-exam-prep/) (acquired by Byju's, valued at ~$23B) and [Paytm](https://en.wikipedia.org/wiki/Paytm) (Indian Stock Exchange listed, ~$6B market cap)
 
